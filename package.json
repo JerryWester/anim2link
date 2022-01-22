@@ -1,0 +1,11 @@
+{
+  "name": "anim2link",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JerryWester/anim2link.git",
+  "devDependencies": {
+    "@types/node": "^17.0.10",
+    "typescript": "^4.5.5",
+    "electron": "^16.0.7"
+  }
+}
